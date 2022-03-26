@@ -1,17 +1,7 @@
 
-<style>
-    .lenguages {
-        display: flex ; 
-    justify-content: space-between ;
-    flex-wrap: wrap;
-}
-.lenguages img {
-    margin : 10px ;
-}
-</style> 
+
 
 ## Hi there, I'm Nico 👋👋👋
-<hr>
 
 📝 ***Feel free to contact me. I am always here ...*** 
 <br>
@@ -22,7 +12,6 @@
 <br>
 
 ## Languages && Tools:
-<hr>
 <br>
 <div class = 'lenguages'> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
