@@ -7,6 +7,7 @@ Full Stack Developer with experience in React.js, Node.js, Typescript, relationa
 
 I am a cheerful, persevering person with an excellent predisposition to work in a team. I am currently seeking new challenges that will allow me to add value to companies and improve my knowledge in web development.
 <br>
+<br>
 📝 ***Feel free to contact me. I am always here ...*** 
 <br>
 <br>
@@ -29,7 +30,7 @@ I am a cheerful, persevering person with an excellent predisposition to work in 
 <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt='' />
 <img src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' alt='' />
 <img src='https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white' alt='' />
-<img src='https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white' alt='' />
+<img src='https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' alt='' />
 <img src='' alt='' />
  
 
